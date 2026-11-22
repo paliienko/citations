@@ -6,6 +6,7 @@
 	bottom: 1rem;
 	left: 1rem;
 	display: flex;
+	font-family: 'Courier New', Courier, monospace;
 }
 
 #navbar a {
